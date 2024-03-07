@@ -1,0 +1,24 @@
+ARTIST="Jessica Simpson"
+TITLE="My Wonderful"
+YEAR="2000"
+DURATION="300"
+LINK="yt.com"
+LYRICS="                                                                         ''A time when I was down and out\nNo lovin in my life
+"
+
+ARTIST="John Lennon"
+TITLE="Just Because"
+YEAR="1980"
+DURATION="360"
+LINK="yt.ro"
+LYRICS="                                                                         ''Ah, remember this?\nWhy, I must have been thirteen when this came out!
+"
+
+ARTIST="Adele"
+TITLE="Hello"
+YEAR="2015"
+DURATION="350"
+LINK="yt.com"
+LYRICS="                                                                         its me
+"
+

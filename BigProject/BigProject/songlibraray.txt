@@ -1,0 +1,24 @@
+ARTIST="Hello"
+TITLE="Adele"
+YEAR="2015"
+DURATION="123"
+LINK="yt.com"
+LYRICS=" lsahif;slfhasld asdasdfasdf
+"
+
+ARTIST="j,k,k,j"
+TITLE="hjmhjm"
+YEAR="2015"
+DURATION="123"
+LINK="yt.com"
+LYRICS=" lsahif;slfhasld asdasdfasdf
+"
+
+ARTIST="srgodf"
+TITLE="ghfgggerg"
+YEAR="2015"
+DURATION="123"
+LINK="yt.com"
+LYRICS=" lsahif;slfhasld asdasdfasdf
+"
+
